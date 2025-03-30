@@ -81,8 +81,3 @@ npm run dev
 
 MIT
 
-## Authors
-
-- [codeblech](https://github.com/codeblech)
-- [ciaokitty](https://github.com/ciaokitty)
-- [Xeen76](https://github.com/Xeen76)
